@@ -1,5 +1,10 @@
 # Changelog
 
+## [v0.5.0](https://github.com/master-ai0107/gh-extension/commits/v0.5.0) - 2026-09-08
+
+### Dependency Updates ⬆️
+- chore(deps): bump Songmu/tagpr from 1.20.2 to 1.20.3 in the dependencies group by @dependabot[bot] in https://github.com/master-ai0107/gh-extension/pull/1
+
 ## [v0.5.0](https://github.com/k1LoW/gh-share/compare/v0.4.1...v0.5.0) - 2026-09-04
 
 ### Breaking Changes 🛠
